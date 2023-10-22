@@ -2,6 +2,7 @@ buildscript{
     dependencies{
         classpath "com.github.Anuken.MindustryJitpack:core:$mindustryVersion"
         classpath "com.github.Anuken.Arc:arc-core:$arcVersion"
+        classpath "com.github.Anuken:jabel:0.6.0"
     }
 
     repositories{
